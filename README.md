@@ -1,4 +1,4 @@
-# CP2 - Pensamento Computacional e Automação com Python
+# Pensamento Computacional e Automação com Python - CP 2
 ## Turma 1CCPY
 ### Alunos:
 * Gabriela Caetano - RM: 572738
